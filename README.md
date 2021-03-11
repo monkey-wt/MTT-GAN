@@ -1,2 +1,1 @@
-# Dataset
-# MTT-GAN
+# Transformer-GAN
